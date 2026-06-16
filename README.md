@@ -36,6 +36,9 @@ Platform preferences vary among users.
 Usage behavior and screen time contribute significantly to addiction prediction.
 Machine learning can effectively classify addiction levels based on user activity patterns.
 
+
+
+
 ### Conclusion
 
 This project demonstrates how data analytics and machine learning can be used to understand social media behavior among Gen Z users. The findings provide valuable insights into addiction patterns and highlight factors that may impact user well-being.

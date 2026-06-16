@@ -47,6 +47,7 @@ The first 5 rows display sample user information, social media usage patterns, m
 The dataset includes demographic details such as age, gender, and country, along with usage-related attributes like daily usage hours, primary platform and screen time before sleep.
 The dataset shape and column list confirm that the data has been loaded successfully and is ready for further analysis.
 
+
 <img width="636" height="773" alt="image" src="https://github.com/user-attachments/assets/c5ad6526-ea8b-4d49-adf1-2cc8a253ee15" />
 
 Observation:
@@ -62,6 +63,7 @@ All other columns have no missing values.
 Action Taken:
 
 Missing values in numerical columns were handled by replacing them with the mean value of their respective columns.
+
 
 
 <img width="825" height="765" alt="image" src="https://github.com/user-attachments/assets/e3cd71c1-efab-4fc0-9885-ab3d5d48a2c3" />
@@ -80,6 +82,7 @@ Purpose:
 
 This summary provides key statistical measures such as mean, standard deviation, minimum, maximum and quartiles, helping to understand the overall distribution of the numerical features in the dataset.
 
+
 <img width="962" height="606" alt="image" src="https://github.com/user-attachments/assets/d3e73b2e-37db-4fe1-bf1b-07e72e6590eb" />
 
 Observation:
@@ -91,6 +94,7 @@ Male and Female users together make up the majority of the dataset.
 Purpose:
 
 This visualization helps understand the gender composition of the dataset and ensures that the data is fairly balanced across the major gender categories.
+
 
 <img width="1071" height="750" alt="image" src="https://github.com/user-attachments/assets/289cb40f-4e1d-41be-89b0-50e364b00f33" />
 Observation:
@@ -104,6 +108,7 @@ Purpose:
 
 This visualization helps identify the most frequently used social media platforms among Gen Z users and highlights platform popularity trends within the dataset.
 
+
 <img width="1192" height="748" alt="image" src="https://github.com/user-attachments/assets/25ed2fa3-04fa-4d00-b2c2-5d48569a0e51" />
 Observation:
 
@@ -116,6 +121,7 @@ Purpose:
 
 This histogram shows the distribution of daily social media usage among users and helps identify common usage patterns and extreme usage behavior.
 
+
 <img width="1202" height="716" alt="image" src="https://github.com/user-attachments/assets/b4b60de8-71c9-411e-bd3a-559e4075ccf9" />
 Observation:
 
@@ -127,6 +133,7 @@ Users spending 7–10 hours per day often have lower mental health scores compar
 Purpose:
 
 This visualization helps examine the relationship between social media usage and mental health, showing how increased usage may be associated with lower mental well-being.
+
 
 <img width="995" height="622" alt="image" src="https://github.com/user-attachments/assets/56ef5f46-0e0a-46e2-bab9-499f2fb9fb74" />
 
@@ -141,6 +148,7 @@ Purpose:
 
 This visualization shows the distribution of users across different addiction levels and helps understand the prevalence of social media addiction within the dataset.
 
+
 <img width="1352" height="575" alt="image" src="https://github.com/user-attachments/assets/d5d98e8f-1941-4920-a748-9bfd01114bcf" />
 <img width="1362" height="462" alt="image" src="https://github.com/user-attachments/assets/a21c9f76-49f1-4003-82e3-d0f943c2b456" />
 
@@ -154,6 +162,7 @@ The diagonal values are 1, representing perfect correlation of each feature with
 Purpose:
 
 This visualization helps identify relationships between variables and highlights the features that may have the greatest influence on social media addiction and mental health outcomes.
+
 
 <img width="757" height="377" alt="image" src="https://github.com/user-attachments/assets/50fc9700-76da-4861-a54d-e3fb35f4bf2b" />
 Observation:
@@ -173,6 +182,7 @@ Support: Number of samples in each class.
 Purpose:
 
 This evaluation measures the performance of the Random Forest model and demonstrates its effectiveness in predicting social media addiction levels based on user behavior and usage patterns.
+
 
 <img width="1463" height="766" alt="image" src="https://github.com/user-attachments/assets/fdb7875c-a630-4509-930d-53b1574b95b5" />
 

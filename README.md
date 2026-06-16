@@ -165,6 +165,7 @@ This visualization helps identify relationships between variables and highlights
 
 
 <img width="757" height="377" alt="image" src="https://github.com/user-attachments/assets/50fc9700-76da-4861-a54d-e3fb35f4bf2b" />
+
 Observation:
 
 The Random Forest model achieved an accuracy of 1.0 (100%) on the test dataset.
